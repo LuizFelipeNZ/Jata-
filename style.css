@@ -44,4 +44,27 @@ footer {
             font-size: larger;
             font-style: oblique;
         }
-
+.container{ 
+    display: flex;
+    align-items: flex-start;
+}
+.container-botao:checked~.menu-da-lista {
+    display: block;
+}
+.container-botao{
+    display: none;
+}
+.container-menus{
+    color: #FFF;
+}
+.menu-da-lista{
+    display: none;
+    position: absolute;
+    top: 60%;
+    width: 0vw;
+    background-color: #102b55;
+}
+.lista-item-link {
+    justify-content: space-between;
+    align-items: center;
+}
