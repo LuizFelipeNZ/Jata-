@@ -52,9 +52,9 @@ footer {
         .lista-menu {
             display: none;
             position: absolute;
-            top: 60%;
+            top: 8%;
             width: 0vw;
-            background-color: #102b55;
+            background-color: #EDB14A;
         }
         
         .container__botao:checked~.lista-menu {
