@@ -4,6 +4,10 @@
 }
 .kkk{
     background-color: #EDB14A;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: relative;
 }
 .logo{
     width: 20%;
