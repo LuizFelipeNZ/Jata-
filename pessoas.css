@@ -16,6 +16,17 @@
 .color{
     background-image:linear-gradient(#EDB14A, #a66948);
 }
+.jatai{
+    display: flex; 
+    justify-content: center; 
+    text-align: center;
+}
+.jatai2{
+    display: flex;
+}
+.julia{
+    width: 50px;
+}
 footer {
     background-color: #a66948;
     color: rgb(255, 255, 255);
