@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.kkk{
+    background-color: #EDB14A;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: relative;
+}
+.logo{
+    width: 45%;
+    
+}
+.color{
+    background-image:linear-gradient(#EDB14A, #a66948);
+}
