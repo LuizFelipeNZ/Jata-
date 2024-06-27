@@ -16,3 +16,34 @@
 .color{
     background-image:linear-gradient(#EDB14A, #a66948);
 }
+footer {
+    background-color: #a66948;
+    color: rgb(255, 255, 255);
+    height: 70px;
+    margin-top: 0px;
+    padding: 70px;
+    text-align: center;
+    font-size: 16px;
+}
+.imgfoo{
+    width: 66px;
+    border-radius: 41%;
+    padding: 0px 25px;
+}
+    
+    .fim{
+        text-align: center; color: #FFF; line-height: 1.5;
+        font-size: larger;
+        font-style: oblique;
+    }
+        .meio{
+            display: flex;
+            justify-content: center;
+        align-items: flex-start;
+    }
+        .rodatexto{
+            margin: 20px 16px 11px 15px;
+            color: white;
+            font-size: larger;
+            font-style: oblique;
+        }
