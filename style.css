@@ -151,5 +151,6 @@ footer {
             border-radius: 15px;
         }
 .jataiimg{
-    width: 300px;
+    width: 500px;
+    align-items: center;
 } 
