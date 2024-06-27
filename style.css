@@ -84,7 +84,7 @@ footer {
         .formulario {
             padding: 30px;
             border: 0px solid #ccc;
-            background-color: #EDB14A;
+            background-color: #ab8036;
             color: rgb(168, 210, 238);
         }
         
@@ -121,9 +121,9 @@ footer {
             height: 30px;
             line-height: 30px;
             border-radius: 15px;
-            border: 1px solid #ffffff;
+            border: 1px solid #000000;
             outline: none;
-            background-color: #254e65;
+            background-color: #ab8036;
         }
         
         input#nao {
@@ -135,7 +135,7 @@ footer {
             padding: 10px;
             height: 90px;
             resize: none;
-            background-color: #254e65;
+            background-color: #ab8036;
         }
         
         input[type=submit] {
